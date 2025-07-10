@@ -1,4 +1,5 @@
-# Resume Discipline Script - README
+## Resume Discipline Script - README
+### First working prototype - Plan to add more customization so others can use it much more easily.
 
 This is a Python program/script that centralizes multiple resumes in different disciplines. CS Majors apply to jobs in multiple disciplines at the same time and it can be a handful to manage and update all the resumes for each. A great way to fix this problem would be to update a single document containing all the sections for all disciplines and then creating document for each discipline. 
 
